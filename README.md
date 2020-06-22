@@ -12,6 +12,7 @@ Python, Java, R
 [Install Tutorial](https://docs.oracle.com/en/java/javase/14/install/overview-jdk-installation.html#GUID-8677A77F-231A-40F7-98B9-1FD0B48C346A)
 
 3. R
+
 [Install Tutorial](https://www.r-project.org/)
 
 
@@ -27,7 +28,7 @@ Step 1 Download CAIFRanking.
 Step 2 Unzip the downloaded source file and initiate the python environment.
 
 ```bash
-cd CausalIntersectionalityForFairRanking  # go to the CAIFRanking repository that is just downloaded
+cd CAIFRank  # go to the CAIFRank repository that is just downloaded
 python -m venv CAIFRanking
 source CAIFRanking/bin/activate  # activate the environment for CAIFRanking
 pip install -r requirements.txt
