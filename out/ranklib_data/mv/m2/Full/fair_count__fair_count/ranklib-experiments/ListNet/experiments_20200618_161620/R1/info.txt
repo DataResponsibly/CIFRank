@@ -1,0 +1,6 @@
+Experiments properties 
+Ranker ListNet
+Ranker Parameters 0.000001 10000
+Executed 18062020 
+Relevance labels range: 500
+Metric: NDCG@500
